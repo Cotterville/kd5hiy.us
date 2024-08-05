@@ -1,8 +1,7 @@
 # KD5HIY.us Jekyll Test Page #
 Just a Ham Hamming Around the Air and the Internet
-_____
 
-20240805/1740
+20240805/1741
 
 This is a test page to see if I like Jeykll.
 
