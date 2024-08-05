@@ -2,6 +2,8 @@
 Just a Ham Hamming Around the Air and the Internet
 _____
 
+20240805/1740
+
 This is a test page to see if I like Jeykll.
 
 I’ve been a radio operator since 1999. I met and became friends with many people in Central Arkansas, and participated in Skywarn and other public events. In 2004 I upgraded to General class and have since upgraded to Extra. We moved to Texas in 2005 and did not become nearly as active as I was when I was in Arkansas at first. Lately, I have become very active. I am a W5YI-VEC and ARRL-VEC VE and am available for testing with a little notice. I can be found on a few repeaters in North TX:
